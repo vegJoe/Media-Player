@@ -1,12 +1,13 @@
 .currenTrack {
     background-color: rgba(217, 233, 233, 0.795);
+    width: 15rem;
     padding-top: 2rem;
     padding-bottom: 2rem;
     border-left: solid;
 }
 
 .currenTrack .cover {
-    width: 12rem;
+    width: 100%;
     display: flex;
 }
 

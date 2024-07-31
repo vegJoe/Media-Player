@@ -7,7 +7,7 @@ export function Feed(): ReactElement {
     return (
         <main className="feed">
             {tracks.map((song) => (
-            <SongList song={song} />
+                <li key={song.id}><SongList song={song} /></li>
             ))}
         </main>
     )
