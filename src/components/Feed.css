@@ -1,0 +1,11 @@
+.feed {
+    background-color: rgba(217, 233, 233, 0.795);
+    width: 15rem;
+    flex-direction: column;
+    display: flex;
+}
+
+.feed .cover {
+    width: 50px;
+    display: flex;
+}

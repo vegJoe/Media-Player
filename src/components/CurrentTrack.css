@@ -1,0 +1,21 @@
+.currenTrack {
+    background-color: rgba(217, 233, 233, 0.795);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-left: solid;
+}
+
+.currenTrack .cover {
+    width: 12rem;
+    display: flex;
+}
+
+.currenTrack .songName {
+    justify-content: center;
+    display: flex;
+}
+
+.currenTrack .controlsComponent {
+    justify-content: center;
+    display: flex;
+}
